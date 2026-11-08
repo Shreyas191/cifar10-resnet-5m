@@ -1,0 +1,6 @@
+{
+  "model": "resnet_se_343",
+  "n_params": 4988274,
+  "test_acc": 97.0,
+  "test_acc_tta": 97.2
+}
