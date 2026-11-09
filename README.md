@@ -1,6 +1,6 @@
 # CIFAR-10 ResNet under 5M parameters — Deep Learning Project 1 (Fall 2026)
 
-**Team KHL** — Shreyas Kaldate, Adhyayan Verma, Sumit Shah  ·  **Report:** [`report/report.pdf`](report/report.pdf)
+**Team KHL** — Shreyas Kaldate (sk12898), Adhyayan Verma (av4159), Sumit Shah (sks9535)  ·  **Report:** [`report/report.pdf`](report/report.pdf)
 
 A modified ResNet with **4,988,274 trainable parameters** (budget: 5,000,000), trained from scratch on the
 competition's 50k training images.
